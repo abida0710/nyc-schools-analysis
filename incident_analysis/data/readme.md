@@ -32,6 +32,6 @@ The file `school-safety-report.csv` contains detailed safety report data for var
 * **`Major N`, `Oth N`, `NoCrim N`, `Prop N`, `Vio N`**: The count of different types of incidents reported at the school. These can be used to understand the frequency of specific incident categories.
 * **`AvgOfMajor N`, `AvgOfOth N`, etc.**: Normalized values representing the average number of incidents, which can be useful for comparing schools of different sizes.
 * **`Register`**: The total number of students registered at the school.
-* **`Borough Name`, `Latitude`, `Longitude`**: Geographic information that can be used to map and visualize the data.
+* **`Borough Name`, `Latitude`, `Longitude`**: Geographic information that can be used to map and visualize the data. 
 
 This dataset provides a comprehensive look into school safety, allowing for detailed analysis and reporting.
